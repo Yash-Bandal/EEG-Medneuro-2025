@@ -40,4 +40,9 @@ use this..if script disabled
 > Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
 
+Start the App on server
+```bash
+npm start
+```
+
 
