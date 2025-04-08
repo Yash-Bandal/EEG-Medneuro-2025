@@ -1,7 +1,7 @@
 # EEG-ITBS Performance and Analysis Dashboard
 
 This project involves classifying EEG waves (Alpha, Beta, Theta, etc.) using a trained model [Random Forest] and visualizing behavioral performance metrics (Accuracy and Reaction Time) via a React-based dashboard.
-
+ 
 ## Features 
 - **EEG Classification:** Model trained to classify EEG waves. 
 - **Performance Metrics Dashboard:** Interactive dashboard built with React and Recharts library to visualize Accuracy vs. Reaction Time.
