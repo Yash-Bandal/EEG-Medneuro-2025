@@ -15,11 +15,8 @@ This project involves classifying EEG waves (Alpha, Beta, Theta, etc.) using a t
 Ensure Node version > 20 and npm >10  
 
 ### App Setup
-npx create-react-app eeg-dashboard: 
-```bash
-npx create-react-app eeg-dashboard
-```
-Go inside directory
+
+Go inside directory (CRA not Vite)
 ```bash
 cd eeg-dashboard
 ```
