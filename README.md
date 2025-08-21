@@ -10,7 +10,7 @@ This project involves classifying EEG waves (Alpha, Beta, Theta, etc.) using a t
   - Active 3-Back (`A3B_performance_metrics.csv`)
   - Sham 2-Back (`S2B_performance_metrics.csv`)
   - Sham 3-Back (`S3B_performance_metrics.csv`)
-
+ 
 ## Setup Instructions
 Ensure Node version > 20 and npm >10  
 
