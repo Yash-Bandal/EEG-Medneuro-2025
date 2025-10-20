@@ -15,6 +15,7 @@
 - Sampling frequency: 1024 Hz (extracted to 256Hz)
 - Typical channel layout: 64–80 (Different for diff subjects) EEG + EXG + GSR + Resp + Misc
 - I am loading these into MNE objects (mne.io.RawEDF).
+- The status channal count is 65536, its not EEG count, be careful handling it, 
 
 Eg `htr.pkl`
 ```
@@ -96,8 +97,20 @@ raw_sub1.ch_names
 | **Respiration & Other Sensors** | Resp, Plet, Temp |
 
 
-> {!imp}
-> The status channal count is 65536
+> [!Important]
+> The status channal count is 65536, its not EEG count, be careful handling it, 
+
+
+
+
+
+
+
+
+
+
+
+<br>
 
 
 More
