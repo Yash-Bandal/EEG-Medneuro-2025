@@ -1,7 +1,7 @@
 ### My Data
 - I am working on EEG data of 44 subjects of 5 groups - 
   - sub-001 to sub-010 -> group htr 
-  - sub-025 to sub-034 -> group ctr 
+  - sub-025 to sub-034 -> group ctr  
   - sub-056 to sub-060 -> group tm  (4)
   - sub-060 to sub-069 -> group vip 
   - sub-079 to sub-088 -> group sny 
