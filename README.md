@@ -1,4 +1,4 @@
-# EEG-ITBS Performance and Analysis  
+# EEG and Effect of ITBS Performance and Analysis 
 
 This project involves classifying EEG waves (Alpha, Beta, Theta, etc.) using a trained model [Random Forest] and visualizing behavioral performance metrics (Accuracy and Reaction Time) via a React-based dashboard.
  
